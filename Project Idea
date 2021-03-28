@@ -1,0 +1,82 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			h1{
+				 font-size:400%;
+				 font-style:bold;
+			 }
+			h2{
+				 color:gray;
+			 }
+			h3{
+				 color:black;
+				 font-size:200%;
+			 }
+ 			li{
+ 			 	color:gray;
+				font-size:150%;
+				font-style:bold;
+ 			 }
+			a{
+				 font-size:150%;
+			 }
+			body{
+				background-color:Snow;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Project Idea </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<a href="Personal Information.html" style="font-size = 50%"> Go Back </a>
+		<h1><center> Project Idea </center></h1>
+		<hr>
+		<h3> Brief Overview </h3>
+		<h2> This project will be converting an pre-existing application to create a control system for robotics. Essentially, by utilising body motion capture used by movies studios for creating humanoid animated characters such as Thanos in Marvel’s Avengers movies, and converting that information to commands a computer and robot would be able to understand. This system would only apply to humanoid robots however as commands from a human body motion capture would be more difficult to translate into a different model such as one designed after animals such as Boston Dynamics’ SpotMini robot. </h2>
+		<br>
+		<h3> Motivation </h3>
+		<h2> This system would allow the use of humanoid robots with a level of precision simple hand held controls would not be able to give the user. For example, controlling a robot to simply pick something up would require a control for bending the legs, lean the body forward, grab the object, straighten the body and then straighten the legs. While the sequence of commands can be activated by pressing a button, the number of buttons increase as the number of activities increase as well. This system would be more efficient and effective as there would not be the need for as many controls and would allow the robot to essentially mimic the human body and it’s timings. This would also replace a person from a potentially dangerous situation with a robot. </h2>
+		<br>
+		<h3> Description  of product/service</h3>
+		<h2> This product is a program that translates of MoCap or motion capture data to information used for the controls a robot rather than a set of simple buttons and joystick. It would potentially increase the accuracy, precision and range of motion of the robot by means of mimicking the user’s body movement. When active, all movements of the user would be replicated as orders for a robot. If the user lifts their arm, the robot would lift it’s arm and if the user lifts their leg, the robot would lift it’s leg. The robot would also be able to mimic the user’s range of motion without the need of constraints on the robot as the human body would be used as a limit. This system would also increase the speed at which the robot could complete tasks as humans once they have learnt how to complete the task, will begin completing the task more efficiently and effectively as the number of completions increase. As such the completion speed for a robot utilizing this system would be equivalent to the completion speed of the user who would constantly bee improving their efficiency.
+There are however, certain drawbacks this system would have. For one, the robot is completely limited by the human user and the system would completely depend on the user’s capabilities. This system would also remove the requirement of humans within dangerous situations. These may include matters related to explosives, electricity, water, extreme heat, extreme cold and large movement of mass such as avalanches and landslides.<br> <br>
+If the human were to become exhausted during the use of the system, the system would no longer be able to be used by the user. Compared to the effort of the small movements required for flicking switches, pressing buttons and moving joysticks, the duration of the use of this system would be shorter. <br> <br>
+If the human had restricted movements from physical condition such as from sore muscles and weak joints, the robot’s range of motion would also be limited. This would not be an issue for a system which controls were based on joysticks, switches and buttons. This would also limit the number of users as the controls for the system would require for the user to move normally and as such physical disabilities would make it difficult for the system to respond.
+ </h2>
+		<br>
+		<h3> Tools and Technologies </h3>
+		<h2> Some software tools that would be needed would include RMoCap or some other body motion capture system to collect data on the subject to translate to commands for the robot and a program to convert said data to commands for the robot. 
+Some hardware required would include a computer or system of computers strong enough to run both RMoCap and the program converting the data to commands for the robot, a robot built and designed after a human as that would be easier for the program and extra parts for the robot like a gyroscope and accelerometer to improve upon the controls for balance.
+ </h2>
+		<br>
+		<h3> Skills required </h3>
+		<h2> The skills required would include: </h2>
+		<ul>
+			<li> The ability to write a program to convert the information from a body motion capture system such as RMoCap into commands for a robot.</li>
+			<ul>
+				<li> RMoCap is not difficult to acquire. A programmer may be required to peek inside the system as the information will be transmitted to another system.</li>
+			</ul>
+			<li> The ability to design and build said robot </li>
+			<ul>
+				<li> This would be required as a proof of concept. Finding someone who is able to build a robot is completely feasible. The difficulty comes from designing a robot that can mimic the human body.</li>
+			</ul>
+			<li> The ability to create a computer or system of computers strong enough to process the information retrieved from a body motion capture system.</li>
+			<ul>
+				<li> Simply be able to build a strong enough system to support the processing of the information.</li>
+			</ul>
+		</ul> 
+		<br>
+		<h3> Outcome </h3>
+		<h2> If the project is successful, this could solve many issues surrounding dangerous situations. Examples include bomb defusal, repair of dangerously damaged infrastructure, surveying of volcanos, controlled avalanche, etc. There would also be a higher demand for people trained for said dangerous situations as users to control the robot as experience rather than technical knowledge is more key for the use of this system. Economically, the only production after the initial boot up of the system would be new designs of the robot for different task. There would not be a need to produce new controllers for said robot as the controls would remain the same. </h2>
+		<br>
+		<hr>
+		<h3> Links to other pages </h3>
+		<a href="Personal Information.html"> Personal Information </a> <br>
+		<a href="Interests in IT.html"> Interests in IT </a> <br>
+		<a href="Ideal Job.html"> Ideal Job </a> <br>
+		<a href="Personal Profile.html"> Personal Profile and online test results </a>
+ 	</body>
+ </html>
