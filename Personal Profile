@@ -17,6 +17,11 @@
 			a{
 				 font-size:150%;
 			 }
+  			li{
+  			 	color:gray;
+ 				font-size:150%;
+ 				font-style:bold;
+  			 }
 			body{
 				background-color:Snow;
 			}
@@ -35,8 +40,19 @@
 		<h3> What about my learning style? What does an online learning style test say about me? </h3>
 		<h2> From the learning style test on the website EducationPlanner.org, I am a visual learner. They are defined as best learning through sight, usually neat and clean and closing their eyes to visualize or remember something.<br> If bored, the websited states that they "will find something to watch" and they may have difficulty with spoken directions and may be easily distracted by sounds. </h2>
 		<hr>
-		<h3></h3>
-		<h2></h2>
+		<h3> How about a creativity test? What does an online creativity test say about me?</h3>
+		<img src="Creativity test.png">
+		<h2> My creative score according to the website TestMyCreativity.com is a 54.94, lower than the typical 63. They state that the metrics they use were: </h2>
+		<ul>
+			<li>Abstraction which is the ability to abstract concepts from ideas</li>
+			<li>Connection which is the ability to make connections between things that don't initially have an apparent connection</li>
+			<li>Perspective or the ability to shift ones perspective on a situation - in terms of space and time, and other people</li>
+			<li>Curiosity or the desire to change or improve things that everyone else accepts as the norm</li>
+			<li>Boldness, the confidence to push boundaries beyond accepted conventions. Also the ability to eliminate fear of what others think of you</li>
+			<li>Paradox, the ability to simultaneously accept and work with statements that are contradictory</li>
+			<li>Complexity, the ability to carry large quantities of information and be able to manipulate and manage the relationships between such information</li>
+			<li>Persistence, the ability to force oneself to keep trying to derive more and stronger solutions even when good ones have already been generated</li>
+		</ul>
 		<hr>
 		<h3> What does the rsults of these tests mean for me?</h3>
 		<h2> They mean very little to me. Typically, my emotions tend to dictate my actions more than my personality. I already knew that I am stress sensitive and a visual learner. I however did not know that I would be defined as an adventurer/explorer type. Though it was something that I did not expect, it still means very little to me what a website defines me as.</h2>
