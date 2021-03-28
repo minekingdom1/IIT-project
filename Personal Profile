@@ -1,0 +1,58 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			h1{
+				 font-size:400%;
+				 font-style:bold;
+			 }
+			h2{
+				 color:gray;
+			 }
+			h3{
+				 color:black;
+				 font-size:200%;
+			 }
+			a{
+				 font-size:150%;
+			 }
+			body{
+				background-color:Snow;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Personal Profile and online test results </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<a href="Personal Information.html" style="font-size = 50%"/> Go Back </a>
+		<h1><center> Personal profile and online test results </center></h1>
+		<hr>
+		<h3> What does the online Myers-Briggs test say about me? </h3>
+		<h2> From the Myers-Briggs test on the website 16Personalities, I was placed as a turbulent adventurer type. To be specific, my code was ISFP-T, my role was explorer and my strategy was constant improvement. <br> The website defines the adventurer type as people who "tend to have open minds, approaching life, new experiences, and people with grounded warmth." The website also states that "their ability to stay in the moment helps them uncover exciting potentials." <br> The T in the code ISFP-T is defines me as a turbulent individual, someone who is self-concious and sensitive to stress. </h2>
+		<hr>
+		<h3> What about my learning style? What does an online learning style test say about me? </h3>
+		<h2> From the learning style test on the website EducationPlanner.org, I am a visual learner. They are defined as best learning through sight, usually neat and clean and closing their eyes to visualize or remember something.<br> If bored, the websited states that they "will find something to watch" and they may have difficulty with spoken directions and may be easily distracted by sounds. </h2>
+		<hr>
+		<h3></h3>
+		<h2></h2>
+		<hr>
+		<h3> What does the rsults of these tests mean for me?</h3>
+		<h2> They mean very little to me. Typically, my emotions tend to dictate my actions more than my personality. I already knew that I am stress sensitive and a visual learner. I however did not know that I would be defined as an adventurer/explorer type. Though it was something that I did not expect, it still means very little to me what a website defines me as.</h2>
+		<h3> How do you think these results may influence your behaviour in a team? </h3>
+		<h2> It would indicate that I am best when I am at my most comfortable and while willing, if stress is involved such as time restrictions, I will not be excited about learning new skills.<br> I am also labelled as an adventurer, but I am not a leader. While I do have some leadership skills, I am still an introvert at heart and prefer assisting from the shadow rather than in the light. </h2>
+		<h3> How should you take this into accoudn when forming a team? </h3>
+		<h2> When forming a team, someone else would have to be the leader. I would also probably require someone like the leader to push or organise small deadlines for me as I tend to procrastinate a lot. Tl;dr I am good at assisting others but need pushing myself.</h2>
+		<hr>
+		<h3> External Links <h3>
+		<a href="https://www.16personalities.com/"> 16Personalities website - Myers-Briggs test</a>
+		<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-styles.shtml"> EducationPlanner.org website - learning style test </a>
+		<hr>
+		<h3> Links to other pages </h3>
+		<a href="Personal Information.html"> Personal Information </a> <br>
+		<a href="Interests in IT.html"> Interests in IT </a> <br>
+		<a href="Ideal Job.html"> Ideal Job </a> <br>
+		<a href="Project Idea.html"> Project Idea </a>
+ 	</body>
+ </html>
