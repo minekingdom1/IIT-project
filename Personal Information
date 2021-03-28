@@ -5,27 +5,27 @@
 <!-- CSS coding--> 
 		<style> 
 			h1{
-				 font-size:400%;
-			 }
-			h2{
-				 color:gray;
-			 }
-			h3{
-				 color:black;
-				 font-size:200%;
-				 font-style:bold;
-			 }
-			a{
-				 font-size:150%;
-			 }
-			li{
-			 	color:gray;
-				font-size:150%;
+				font-size:400%;
 				font-style:bold;
-			 }
+						 }
+			h2{
+				color:azure;
+						 }
+			h3{
+				color:darkslategray;
+				font-size:200%;
+						 }
+			a{
+				font-size:150%;
+						 }
+			li{
+			  	color:azure;
+			 	font-size:150%;
+			 	font-style:bold;
+			  			 }
 			body{
-				background-color:Snow;
-			}
+				background-color:goldenrod;
+						}
 		</style>
 <!--Title of the page-->
 		 <title> Personal Information </title> 
