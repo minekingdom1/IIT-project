@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<!--Base page which is meant to contain basic info, Random facts and links to other pages related to this page-->
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			h1{
+				 font-size:400%;
+			 }
+			h2{
+				 color:gray;
+			 }
+			h3{
+				 color:black;
+				 font-size:200%;
+				 font-style:bold;
+			 }
+			a{
+				 font-size:150%;
+			 }
+			li{
+			 	color:gray;
+				font-size:150%;
+				font-style:bold;
+			 }
+			body{
+				background-color:Snow;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Ideal Job </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<a href="Personal Information.html" style="font-size = 50%"/> Go Back </a>
+		<h1><center><b> Ideal Job </b></center></h1>
+		<hr>
+		<h3> The job advertisement </h3>
+		<a href="https://www.seek.com.au/job/51827041?type=standard#searchRequestToken=60d2f5a4-ce45-4e88-8a27-cc5a504de930"><img src="Ideal Job.png"></a>
+		<br>
+		<a href="https://www.seek.com.au/job/51827041?type=standard#searchRequestToken=60d2f5a4-ce45-4e88-8a27-cc5a504de930"> Job application on Seek website </a>
+		<hr>
+		<h3> A description of the position, and particularly what makes this position appealing to me. </h3>
+		<h2> The position is for general programmer at Big Ant Studios. This position would have to design and develop user interfaces for gameplay visuals and experience using cutting-edge engine technology. They would have to work in small teams to complete their tasks. This position interests me because a majority of the job is programming, developing, testing and improving user interfaces, all of which seem like jobs not requiring many leadership skills or assertive communication, skills I’m not very well-versed in. Additionally, by working in a small team, I would be able to gather opinions about the design of the user interfaces without having to ask many people.</h2>
+		<br>
+		<h3> A description of the skills, qualifications and experience required for the position. </h3>
+		<h2> This position requires a Bachelor’s degree in either software engineering, computer science or something equivalent. It also requires basic knowledge of engine or middleware, debugging, speed and memory consideration, optimization principles and the ability to work well with designers and artist who would be implementing the visuals for the game. <br>
+There are extra skills and qualifications that can help. This includes experience with current generation consoles such as PS4 and Xbox One and scripting languages like Lua and Python.</h2>
+		<br>
+		<h3> A description of the skills, qualifications and experience I currently have. </h3>
+		<h2> I’ve got a good understanding of C++ and Python, am passionate about playing and making games and a good attention to detail.</h2>
+		<br>
+		<h3> A plan describing how I will obtain the skills, qualifications and experience required for the position, building on those I have now. </h3>
+		<ul>
+			<li> Utilize resources like university and online teaching material to learn more about programming languages. Online teaching material could be W3Schools or Codecademy. </li>
+			<li> Learn what type of code the application will use and adjust my thinking to it in order to quickly remember and solve issues. This will most likely come over time and I will have to first figure out what language they are using. </li>
+			<li>Strengthen communication skills in order to suggest ideas and debunk others. Some ways to build up these skills could be through imaging issues and solving them by talking out loud as if to someone or interacting with co-workers or fellow students more in order to build quick thinking. </li>
+		</ul>
+ 	</body>
+ </html>
