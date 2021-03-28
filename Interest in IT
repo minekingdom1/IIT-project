@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<!--Page containing info related to my interest in IT-->
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			h1{
+				 font-size:400%;
+				 font-style:bold;
+			 }
+			h2{
+				 color:gray;
+			 }
+			h3{
+				 color:black;
+				 font-size:200%;
+				 font-style:bold;
+			 }
+			a{
+				 font-size:150%;
+			 }
+ 			li{
+ 			 	color:gray;
+ 			 }
+			body{
+				background-color:Snow;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Interests in IT </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<a href="Personal Information.html" style="font-size = 50%"/> Go Back </a>
+		<h1><center> Interests in IT </center></h1>
+		<hr>
+		<h3> What is/was my interest in IT? When did my interest in IT begin? </h3>
+		<h2> When I was younger, I watched anime and decided I wanted to either build a robot or mecha, which is a large armoured robot, typically controlled by a person riding inside the robot itself or a full dive system from sword art online. As a result, programming became my focus. It turned into me liking programming and the euphoria that comes with finding a way to solve something.</h2>
+		<h3> Was there a particular event or person that sparked my interest? Outline my IT experience (if any). </h3>
+		<h2> </h2>
+		<h3> Why did my choose to come to RMIT? </h3>
+		<h2> The name RMIT is an abbreviation of Royal Melbourne Institute of Technology. In terms of IT, RMIT just came to mind first. </h2>
+		<h3> What do my expect to learn during your studies? </h3>
+		<h2> Programming languages, What user-centred design is and how useful it is, how to utilize a database and much more. </h2>
+		<hr>
+		<h3> Links to other pages </h3>
+		<a href="Personal Information.html"> Personal Information </a> <br>
+		<a href="Ideal Job.html"> Ideal Job </a> <br>
+		<a href="Personal Profile.html"> Personal Profile and online test </a> <br>
+		<a href="Project Idea.html"> Project Idea </a>
+ 	</body>
+ </html>
