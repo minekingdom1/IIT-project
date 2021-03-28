@@ -1,0 +1,66 @@
+<!DOCTYPE html> 
+<!--Base page which is meant to contain basic info, Random facts and links to other pages related to this page-->
+<html>
+	<head>
+<!-- CSS coding--> 
+		<style> 
+			h1{
+				 font-size:400%;
+			 }
+			h2{
+				 color:gray;
+			 }
+			h3{
+				 color:black;
+				 font-size:200%;
+				 font-style:bold;
+			 }
+			a{
+				 font-size:150%;
+			 }
+			li{
+			 	color:gray;
+				font-size:150%;
+				font-style:bold;
+			 }
+			body{
+				background-color:Snow;
+			}
+		</style>
+<!--Title of the page-->
+		 <title> Personal Information </title> 
+	</head>
+<!--Body of the page-->
+ 	<body> 
+		<h1><center><b> Personal Information </b></center></h1>
+		<hr>
+		<!--Basic Info-->
+		<h3> Basic Information </h3>
+		<h2> Full name: Nicholas Han </h2>
+		<h2> Date of Birth: 13th of July, 2000 (age 21) </h2>
+		<h2> Place of Birth: Kuala Lumpur, Malaysia </h2>
+		<h2> Student number: 3781290 </h2>
+		<h2> Student email: S3781290@student.rmit.edu.au </h2>
+		<h2> Ethnicity: Chinese </h2>
+		<h2> Nationality: Australian </h2>
+		<h2> Education to date: Completed year 12, incomplete engineering degree </h2>
+		<h2> Languages Spoken: English, Chinese, Hakka, Hokkien, Cantonese </h2>
+		<hr>
+		<!--Random facts-->
+		<h3> Random facts </h3>
+		<ul> 
+			<li> I have a Cavalier King Charlies Spaniel crossed Poodle or Cavoodle, named Charlie </li>
+			<li> My hobbies include:
+				<li> Playing videogames such as League of Legends, Warframe, Monster Hunter </li>
+				<li> Reading manga </li>
+			</li>
+		</ul>
+		<!--Links to other pages-->
+		<hr>
+		<h3> Links to other pages </h3>
+		<a href="Interests in IT.html"> Interests in IT </a> <br>
+		<a href="Ideal Job.html"> Ideal Job </a> <br>
+		<a href="Personal Profile.html"> Personal profile and online test </a> <br>
+		<a href="Project Idea.html"> Project Idea </a>
+ 	</body>
+ </html>
